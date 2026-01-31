@@ -1,0 +1,11 @@
+D:\.net 8712\VidhiRichtextBoxForm\obj\Debug\VidhiRichtextBoxForm.csproj.AssemblyReference.cache
+D:\.net 8712\VidhiRichtextBoxForm\obj\Debug\VidhiRichtextBoxForm.Form1.resources
+D:\.net 8712\VidhiRichtextBoxForm\obj\Debug\VidhiRichtextBoxForm.Properties.Resources.resources
+D:\.net 8712\VidhiRichtextBoxForm\obj\Debug\VidhiRichtextBoxForm.csproj.GenerateResource.cache
+D:\.net 8712\VidhiRichtextBoxForm\obj\Debug\VidhiRichtextBoxForm.csproj.CoreCompileInputs.cache
+D:\.net 8712\VidhiRichtextBoxForm\bin\Debug\VidhiRichtextBoxForm.exe.config
+D:\.net 8712\VidhiRichtextBoxForm\bin\Debug\VidhiRichtextBoxForm.exe
+D:\.net 8712\VidhiRichtextBoxForm\bin\Debug\VidhiRichtextBoxForm.pdb
+D:\.net 8712\VidhiRichtextBoxForm\obj\Debug\VidhiRichtextBoxForm.exe
+D:\.net 8712\VidhiRichtextBoxForm\obj\Debug\VidhiRichtextBoxForm.pdb
+D:\.net 8712\VidhiRichtextBoxForm\obj\Debug\VidhiRichtextBoxForm.exe.config
